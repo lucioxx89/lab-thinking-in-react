@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import ProductRow from './ProductRow';
 
 class FilterableProductTable extends Component {
   render() {
